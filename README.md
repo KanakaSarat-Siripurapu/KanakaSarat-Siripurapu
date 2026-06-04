@@ -17,8 +17,6 @@ Typography: GitHub default sans-serif everywhere (Inter for typing SVG)
 </a>
 
 <br/>
-<sub align="center"><i>SJSU university account (active during M.S. AI 2025–2027): <a href="https://github.com/kanakasaratsiripurapu-dev">kanakasaratsiripurapu-dev</a></i></sub>
-
 
 <a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20%20GMAIL-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/%F0%9F%94%97%20%20LINKEDIN-22D3EE?style=for-the-badge&labelColor=0D1117" /></a>
